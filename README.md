@@ -23,12 +23,12 @@ CNNs are a supervised learning method and are therefore trained using data label
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Conclusion 1 > 90.46% Training accuracy and 52.35% validation accuracy.
+- Conclusion 2 > 60.32% Training accuracy and 56.15% validation accuracy ( Data Augumentation).
+- Conclusion 3 > 62.44% Training accuracy and 57.49% validation accuracy ( Data Augumentation + 1 Dropout layer)
+- Conclusion 4 > 95.72% Training accuracy and 82.33% validation accuracy ( Class rebalancing )
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
 
 
 ## Technologies Used
